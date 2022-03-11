@@ -31,8 +31,10 @@ E &= (1 - a)E + aE
 * Tompson Sampling
 * RS
 * RS-OPT
+* RS-CH
 * SRS
 * SRS-OPT
+* SRS-CH
 
 # 実験結果
 実験結果から従来の手法である忘却率を用いた手法よりメタバンディットを用いた手法の方が優れていることがわかった。
