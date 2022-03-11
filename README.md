@@ -53,13 +53,13 @@ E &= (1 - a)E + aE
 <img width="1193" alt="スクリーンショット 2022-03-11 17 48 44" src="https://user-images.githubusercontent.com/95354321/157833786-5d3fd4c7-572c-4a0f-81da-ecf1be9ce8c7.png">
 
 # 引用文献
-[Hartland 06] C. Hartland, S. Gelly, N. Baskiotis, O. Teytaud, and M. Sebag, Multi-armed bandit, dynamic environments and meta-bandits, In: Advances in Neural
+* [Hartland 06] C. Hartland, S. Gelly, N. Baskiotis, O. Teytaud, and M. Sebag, Multi-armed bandit, dynamic environments and meta-bandits, In: Advances in Neural
 Information Processing Systems(NIPS-2006) Workshop, Online Trading Exploration Exploitation. (2006)<br>
-[高橋 16] 高橋 達二,甲野 佑,浦上大輔:認知的満足化 限定合理性の強化学習における効用,人工知能学会論文誌,31(6), AI30-M_1-11. (2016)<br>
-[甲野 13] 甲野 佑,高橋 達二:価値推論ヒューリスティクスとし
+* [高橋 16] 高橋 達二,甲野 佑,浦上大輔:認知的満足化 限定合理性の強化学習における効用,人工知能学会論文誌,31(6), AI30-M_1-11. (2016)<br>
+* [甲野 13] 甲野 佑,高橋 達二:価値推論ヒューリスティクスとし
 ての規準学習と忘却,In: Proceedings of 30th Japanese
 Congnitive Science Society(JCSS), 74-79. (2013)<br>
-[甲野 18] 甲野 佑, 高橋 達二: 満足化を通じた最適な自律探索,
+* [甲野 18] 甲野 佑, 高橋 達二: 満足化を通じた最適な自律探索,
 2018 年度 人工知能学会全国大会 (第 32 回) 論文集 (2018)<br>
-[加藤 21]
+* [加藤 21]
 加藤暦雄，甲野祐，高橋達二：満足化方策における非満足均衡を用いた確率的方策の検証，2021年度~人工知能学会全国大会(第35回)~論文集，(2021)<br>
