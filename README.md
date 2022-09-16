@@ -4,7 +4,16 @@
 # メタバンディットについて
 メタバンディットでは上位エージェント、下位エージェントを生成する。下位エージェントでは従来のバンディット問題同様、ある方策に従って腕の選択を行う。上位エージェントではどの下位エージェントを使用するかを決める意思決定として用いられる。
 
-<img width="681" alt="スクリーンショット 2022-03-11 16 53 46" src="https://user-images.githubusercontent.com/95354321/157825791-330ebdd9-fdbe-4e6a-820f-0537d0eb9902.png">
+# 概要図
+
+## 通常のバンディット問題
+<img width="602" alt="スクリーンショット 2022-09-17 0 37 52" src="https://user-images.githubusercontent.com/95354321/190677117-3d8549ac-b8d8-49dc-a011-943647fa8e7b.png">
+
+## アラートがなった時
+<img width="625" alt="スクリーンショット 2022-09-17 0 38 01" src="https://user-images.githubusercontent.com/95354321/190677138-228e56ee-0220-43c4-a6b0-00f8793937e9.png">
+
+## 新・旧で比較して性能が良かったエージェントを残す
+<img width="610" alt="スクリーンショット 2022-09-17 0 38 08" src="https://user-images.githubusercontent.com/95354321/190677153-87ba87d7-d860-4224-94b1-9eb48830c5f9.png">
 
 
 # 期待値の更新
